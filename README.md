@@ -12,4 +12,4 @@ Author or co-author:
 - [subsemble](https://github.com/ledell/subsemble): R package for ensemble learning on subsets of data 
 - [SuperLearner](https://github.com/ecpolley/SuperLearner): R package for Super Learning (Stacked Ensembles)
 - [meetupr](https://github.com/rladies/meetupr):  R interface to the meetup.com API 
-- [rHeathDataGov](https://github.com/rOpenHealth/rHealthDataGov): R interface to the HealthData.gov Data API. 
+- [rHeathDataGov](https://github.com/rOpenHealth/rHealthDataGov): R interface to the HealthData.gov Data API 
