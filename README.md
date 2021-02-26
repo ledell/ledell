@@ -8,7 +8,7 @@ Author or co-author:
 
 - [H2O](https://github.com/h2oai/h2o-3): Scalable Machine Learning & AutoML Platform
 - [OpenML AutoML Benchmark](https://github.com/openml/automlbenchmark): Benchmarking Framework for AutoML 
-- [cvAUC](https://github.com/ledell/cvAUC):  Computationally efficient confidence intervals for cross-validated AUC estimates in R 
+- [cvAUC](https://github.com/ledell/cvAUC):  Computationally efficient confidence intervals for CV AUC estimates in R 
 - [subsemble](https://github.com/ledell/subsemble): R package for ensemble learning on subsets of data 
 - [SuperLearner](https://github.com/ecpolley/SuperLearner): R package for Super Learning (Stacked Ensembles)
 - [meetupr](https://github.com/rladies/meetupr):  R interface to the meetup.com API 
