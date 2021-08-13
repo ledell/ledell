@@ -8,7 +8,7 @@ Author or co-author:
 
 - [H2O](https://github.com/h2oai/h2o-3): Scalable Machine Learning & AutoML Platform
 - [h2o4gpu](https://github.com/h2oai/h2o4gpu/tree/master/src/interface_r): R interface for H2O4GPU, machine learning on GPUs
-- [rsparkling](https://github.com/h2oai/sparkling-water/tree/master/r): R interface for H2O Sparkling Water
+- [rsparkling](https://github.com/h2oai/sparkling-water/tree/master/r): R interface for H2O Sparkling Water, maching learning on Spark
 - [OpenML AutoML Benchmark](https://github.com/openml/automlbenchmark): Benchmarking Framework for AutoML tools
 - [cvAUC](https://github.com/ledell/cvAUC):  Computationally efficient confidence intervals for CV AUC estimates in R 
 - [subsemble](https://github.com/ledell/subsemble): R package for ensemble learning on subsets of data 
