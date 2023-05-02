@@ -7,6 +7,7 @@ I am the Chief Machine Learning Scientist at [H2O.ai](https://h2o.ai), the compa
 Author or co-author:
 
 - [H2O](https://github.com/h2oai/h2o-3): Scalable Machine Learning & AutoML Platform
+- [H2O AutoML Wave App](https://github.com/h2oai/wave-h2o-automl): Wave App (web GUI) for H2O AutoML
 - [h2o4gpu](https://github.com/h2oai/h2o4gpu/tree/master/src/interface_r): R interface for H2O4GPU, machine learning on GPUs
 - [rsparkling](https://github.com/h2oai/sparkling-water/tree/master/r): R interface for H2O Sparkling Water, maching learning on Spark
 - [OpenML AutoML Benchmark](https://github.com/openml/automlbenchmark): Benchmarking Framework for AutoML tools
