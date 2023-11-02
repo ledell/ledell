@@ -15,4 +15,11 @@ Author or co-author:
 - [subsemble](https://github.com/ledell/subsemble): R package for ensemble learning on subsets of data 
 - [SuperLearner](https://github.com/ecpolley/SuperLearner): R package for Super Learning (Stacked Ensembles)
 - [meetupr](https://github.com/rladies/meetupr):  R interface to the meetup.com API 
-- [rHeathDataGov](https://github.com/rOpenHealth/rHealthDataGov): R interface to the HealthData.gov Data API 
+- [rHeathDataGov](https://github.com/rOpenHealth/rHealthDataGov): R interface to the HealthData.gov Data API
+
+#### Selected keynote presentations 👩🏻‍🏫
+
+- [JuliaCon 2022](https://github.com/ledell/juliacon-2022-keynote)
+- [NeurIPS 2021: Benchmarks and Datasets track](https://github.com/ledell/neurips-2021-keynote)
+- [useR! 2020](https://github.com/ledell/useR2020-automl)
+- [LatinR 2019](https://github.com/ledell/LatinR-2019-keynote)
