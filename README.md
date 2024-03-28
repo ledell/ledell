@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am the Chief Machine Learning Scientist at [H2O.ai](https://h2o.ai), the company that produces the open source, distributed machine learning platform, [H2O](https://github.com/h2oai/h2o-3).  At H2O.ai, I lead the development of the [H2O AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) algorithm.  I am also the founder of [WiMLDS](https://github.com/wimlds) and co-founder of [R-Ladies Global](https://github.com/rladies) and develop ML benchmarking tools with the [OpenML](https://github.com/openml) organization.
+I currently serve as the CEO at [DataScientific, Inc.](https://datascientific.com), an AI Advisory and Consulting firm specializing in the development and implementation of cutting-edge AI solutions. Previously, I was the Chief Machine Learning Scientist at [H2O.ai](https://h2o.ai), a leading AI company known for producing [H2O](https://github.com/h2oai/h2o-3), an open source, distributed machine learning platform, along with Driverless AI, h2oGPT, LLMStudio, and a range of other Enterprise AI systems.  My tenure at H2O.ai was marked by the creation and leadership of the development team for the [H2O AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) algorithm, where I also spearheaded efforts in explainable/interpretable ML, algorithmic fairness and ML benchmarking and measurement.  
+
+Additionally, I am the founder of [WiMLDS (Women in Machine Learning and Data Science)](https://github.com/wimlds) and a co-founder of [R-Ladies Global](https://github.com/rladies), both organizations aimed at promoting diversity and inclusion in the AI field.  I also collaborate with the [OpenML](https://github.com/openml) organization to develop open source benchmarking tools for machine learning.
 
 #### Selected open source software contributions 📦
 
