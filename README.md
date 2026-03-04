@@ -24,6 +24,6 @@ Author or co-author:
 - [AutoML Conf 2025](https://github.com/ledell/automl-2025-keynote/)
 - [R/Medicine 2025](https://github.com/ledell/rmedicine-2025-keynote/)
 - [JuliaCon 2022](https://github.com/ledell/juliacon-2022-keynote)
-- [NeurIPS 2021: Benchmarks and Datasets track](https://github.com/ledell/neurips-2021-keynote)
+- [NeurIPS 2021](https://github.com/ledell/neurips-2021-keynote)
 - [useR! 2020](https://github.com/ledell/useR2020-automl)
 - [LatinR 2019](https://github.com/ledell/LatinR-2019-keynote)
