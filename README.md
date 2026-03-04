@@ -21,9 +21,9 @@ Author or co-author:
 
 #### Selected keynote presentations 👩🏻‍🏫
 
-- [AutoML Conf 2025](https://github.com/ledell/automl-2025-keynote/)
-- [R/Medicine 2025](https://github.com/ledell/rmedicine-2025-keynote/)
-- [JuliaCon 2022](https://github.com/ledell/juliacon-2022-keynote)
-- [NeurIPS 2021](https://github.com/ledell/neurips-2021-keynote)
-- [useR! 2020](https://github.com/ledell/useR2020-automl)
-- [LatinR 2019](https://github.com/ledell/LatinR-2019-keynote)
+- [AutoML Conf 2025](https://github.com/ledell/automl-2025-keynote/): Towards Automated Evaluation of LLM Applications
+- [R/Medicine 2025](https://github.com/ledell/rmedicine-2025-keynote/): Model Evaluation: From ML to GenAI
+- [JuliaCon 2022](https://github.com/ledell/juliacon-2022-keynote): APIs & Community: Building for Success
+- [NeurIPS 2021](https://github.com/ledell/neurips-2021-keynote): Towards Responsible ML Benchmarking
+- [useR! 2020](https://github.com/ledell/useR2020-automl): Responsible Automation: Towards Interpretable & Fair AutoML
+- [LatinR 2019](https://github.com/ledell/LatinR-2019-keynote): Scalable Automatic Machine Learning in H2O
